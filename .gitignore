@@ -1,0 +1,25 @@
+# Ignore dataset folders
+train/
+test/
+validation/
+
+# Ignore model weights if needed
+*.h5
+*.keras
+
+# Ignore temporary python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebooks checkpoint
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore virtual environment
+venv/
+ENV/
+
+# Ignore Streamlit's .streamlit folder if secret keys are there
+.streamlit/secrets.toml
