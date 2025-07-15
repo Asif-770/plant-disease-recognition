@@ -5,7 +5,7 @@ validation/
 
 # Ignore model weights if needed
 *.h5
-*.keras
+#*.keras
 
 # Ignore temporary python cache
 __pycache__/
