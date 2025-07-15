@@ -4,7 +4,7 @@ test/
 validation/
 
 # Ignore model weights if needed
-*.h5
+# *.h5
 #*.keras
 
 # Ignore temporary python cache
