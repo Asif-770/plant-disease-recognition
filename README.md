@@ -55,9 +55,9 @@ This project uses a trained CNN model to detect plant diseases from uploaded lea
 ## 📁 Project Structure
 
 plant-disease-recognition/
-├── main.py # Streamlit app script
-├── trained_plant_disease_model.keras # Trained CNN model (<100MB)
-├── bnn1.jpeg # Banner image
+├── main1.py # Streamlit app script
+├── trained_plant_disease_model.h5 # Trained CNN model (<100MB)
+├── bn1.jpeg # Banner image
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Files to ignore in repo
 └── README.md # You're reading it!
