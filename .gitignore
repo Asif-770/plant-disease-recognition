@@ -1,7 +1,7 @@
 # Ignore dataset folders
 train/
 test/
-validation/
+valid/
 
 # Ignore model weights if needed
 # *.h5
