@@ -4,6 +4,8 @@
 
 🧪 To test the model, open the Test_image folder, download any sample image, and upload it in the Streamlit app to see the prediction instantly.
 
+---
+
 This project uses a trained CNN model to detect plant diseases from uploaded leaf images using TensorFlow and Streamlit.
 
 ---
